@@ -1,0 +1,5 @@
+streamlit-webrtc~=0.11.0
+streamlit==0.80.0
+opencv
+numpy
+tensorflow
