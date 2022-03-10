@@ -1,11 +1,32 @@
 # FaceMask Detection
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62902607/157745081-8108308f-cfee-4aab-a09e-e328fa6f40c4.png" width="200">
+</p>
+
 FaceMask Detection es un proyecto realizado con Python, Tensorflow, OpenCV y Streamlit junto al complemente de Streamlit llamado "Streamlit webrtc", usando DeepLearning para detectar rostros con y sin mascarillas en tiempo real y también en imagenes
 
 
 ![test](img/test.png)
 
 Al ejecutar esta aplicación se abrirá una app la cual detectará los rostros directamente, detectando si el mismo posee mascarilla o no.
+
+
+<details>
+
+  <ol>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+    <li>
+        <a href="#dataset">Objetivos</a>
+    </li>
+    <li><a href="#objetivos">Usage</a></li>
+    <li><a href="#autor">Roadmap</a></li>
+    <li><a href="#links-de-interes">Contributing</a></li>
+  </ol>
+</details>
+
 
 ## Getting started
 
@@ -58,8 +79,18 @@ Y los objetivos pensados a largo plazo se centran en entornos cerrados como son 
 
 Las ideas sobre objetivos pueden estar en constante cambio debido a mejores ideas.
 
+## Autor
+
+Este proyecto fue realizado por:
+
+[Santino Lede](https://github.com/Luxor5k) santinolede3@gmail.com 
+@santino_lede
+
 ## Links de interes
 
 https://github.com/chandrikadeb7/Face-Mask-Detection
 
 https://github.com/Spidy20/face_mask_detection
+
+
+⌨️ con ❤️ por Luxor5k
