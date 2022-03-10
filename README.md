@@ -22,6 +22,7 @@ streamlit run facemask_app.py
 ```
 
 En su consola se debería visualizar lo siguiente:
+
 ![streamlit-terminal](img/terminal-streamlit.png)
 
 4.  Accesa a cualquiera de ambas url y disfrute del programa.
@@ -47,13 +48,13 @@ Este proyecto cuenta con objetivos a corto y mediano plazo, centrandose en su pr
 Los objetivos a corto plazo son centrados en lo urbano y el Covid y son los siguientes:
 
 - [x] Detectar si una persona lleva su mascarilla bien colocada
-- [] Dar una señal de alerta al detectar a una persona sin mascarilla
-- [] Implementar su uso en una Rasberry Pi y probar el sistema por la calle o en negocios
+- [ ] Dar una señal de alerta al detectar a una persona sin mascarilla
+- [ ] Implementar su uso en una Rasberry Pi y probar el sistema por la calle o en negocios
 
 Y los objetivos pensados a largo plazo se centran en entornos cerrados como son laboratorios, donde se necesitan diferentes equipos de protecciones, en su mayoría una mascarilla especial para evitar inhalar gases tóxicos, estos son los objetivos planteados:
 
-- [] Reconocimiento de distintos tipos de mascarillas en laboratorios
-- [] Ampliar el reconocimiento a otros equipos de protección además de mascarilla
+- [ ] Reconocimiento de distintos tipos de mascarillas en laboratorios
+- [ ] Ampliar el reconocimiento a otros equipos de protección además de mascarilla
 
 Las ideas sobre objetivos pueden estar en constante cambio debido a mejores ideas.
 
