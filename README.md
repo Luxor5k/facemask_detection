@@ -1,6 +1,8 @@
 # FaceMask Detection
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <a href= https://www.linkedin.com/in/santino-lede-06b9931b2/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://badges.aleen42.com/src/python.svg" /> <img src= "https://badges.aleen42.com/src/tensorflow.svg"/>
+
+<a href= https://www.linkedin.com/in/santino-lede-06b9931b2/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
           
 
@@ -26,7 +28,7 @@ FaceMask Detection es un proyecto realizado con Python, Tensorflow, OpenCV y Str
 </details>
 
 
-![test](img/test.png)
+![gif](https://media.giphy.com/media/gTYQ5Codx1Hp7lYJ0D/giphy.gif)
 
 Al ejecutar esta aplicación se abrirá una app la cual detectará los rostros directamente, detectando si el mismo posee mascarilla o no.
 
@@ -79,7 +81,7 @@ Este proyecto cuenta con objetivos a corto y mediano plazo, centrandose en su pr
 Los objetivos a corto plazo son centrados en lo urbano y el Covid y son los siguientes:
 
 - [x] Detectar si una persona lleva su mascarilla bien colocada
-- [ ] Detectar mascarilla en múltiples personas a la vez
+- [x] Detectar mascarilla en múltiples personas a la vez
 - [ ] Dar una señal de alerta al detectar a una persona sin mascarilla
 - [ ] Implementar un sistema para que cualquier persona pueda subir su foto con o sin barbijo al dataset
 - [ ] Implementar su uso en una Rasberry Pi y probar el sistema por la calle o en negocios
@@ -103,6 +105,7 @@ Este proyecto fue realizado por:
 https://github.com/chandrikadeb7/Face-Mask-Detection
 
 https://github.com/Spidy20/face_mask_detection
+
 
 
 ⌨️ con ❤️ por Luxor5k
